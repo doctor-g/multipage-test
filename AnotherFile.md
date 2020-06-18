@@ -1,6 +1,6 @@
 layout: page
 title: "Another File"
-permalink: anotherfile
+permalink: /anotherfile/
 
 # Another File
 
