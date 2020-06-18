@@ -1,6 +1,6 @@
 ## The Real Deal
 
-[Link to another file](anotherfile)
+[Link to another file](anotherfile.html)
 
 ## Welcome to GitHub Pages
 
