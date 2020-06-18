@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Another File"
 permalink: /anotherfile/
+---
 
 # Another File
 
